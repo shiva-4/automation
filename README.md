@@ -1,2 +1,2 @@
 # zoom automation
-zoom class automation using app
+zoom class automation using app/Browser
